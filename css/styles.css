@@ -1,0 +1,13 @@
+body {
+  background-image: url("../dragon.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: black;
+  font-family: 'MedievalSharp', cursive;
+  color: red;
+}
+
+img{
+  height: 37px;
+  width: 37px;
+}
